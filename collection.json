@@ -1,0 +1,10 @@
+{
+    "name": "SDS Collection",
+    "packages": [
+	{
+	    "url": "https://github.com/tyagishi/SwiftUIDebugUtil",
+	    "url": "https://github.com/tyagishi/SDSCGExtension",
+	    "url": "https://github.com/tyagishi/SDSOrientationAdaptiveStack"
+	}
+    ]
+}
