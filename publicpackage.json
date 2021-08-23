@@ -1,0 +1,33 @@
+{
+    "name": "SmallDeskSoftware Packages",
+    "overview": "convenient packages from SmallDeskSoftware.",
+    "packages": [
+	{
+	    "url": "https://github.com/tyagishi/SwiftUIDebugUtil",
+	    "url": "https://github.com/tyagishi/SwiftUIColorNames",
+	    "url": "https://github.com/tyagishi/SDSCGExtension",
+	    "url": "https://github.com/tyagishi/SDSViewExtension",
+	    "url": "https://github.com/tyagishi/SDSNSImageExtension",
+	    
+	    "url": "https://github.com/tyagishi/SDSSupportRequestSheet",
+	    "url": "https://github.com/tyagishi/SDSOrientationAdaptiveStack",
+	    "url": "https://github.com/tyagishi/SDSSharingServicePicker",
+	    "url": "https://github.com/tyagishi/SDSStatefulButton",
+	    "url": "https://github.com/tyagishi/SDSOnboardingView",
+	    "url": "https://github.com/tyagishi/MovableFrame",
+	    "url": "https://github.com/tyagishi/SDSCircularProgressView",
+	    "url": "https://github.com/tyagishi/SDSPHPhotoAlbumPicker",
+	    "url": "https://github.com/tyagishi/SDSTimeZonePicker",
+	    "url": "https://github.com/tyagishi/CircularText",
+	    "url": "https://github.com/tyagishi/SwiftUIIntroView",
+	    "url": "https://github.com/tyagishi/SDSReviewRequest",
+	    "url": "https://github.com/tyagishi/FontPicker",
+	    "url": "https://github.com/tyagishi/SwiftUIPHPicker",
+	    "url": "https://github.com/tyagishi/SwiftUIImagePickerController",
+	    "url": "https://github.com/tyagishi/SwiftUIAVCaptureVideoPreviewView"
+	}
+    ],
+    "author": {
+        "name": "SmallDeskSoftware"
+    }
+}
