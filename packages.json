@@ -1,0 +1,8 @@
+{
+    "name": "SDS Collection",
+    "packages": [
+	{
+	    "url": "https://github.com/tyagishi/SwiftUIDebugUtil"
+	}
+    ]
+}
