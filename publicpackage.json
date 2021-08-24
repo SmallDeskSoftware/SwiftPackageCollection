@@ -3,13 +3,13 @@
     "overview": "convenient packages from SmallDeskSoftware.",
     "packages": [
 	{
-	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIDebugUtil"
+	    "url": "https://github.com/tyagishi/SwiftUIDebugUtil"
 	},
 	{
-	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIColorNames"
+	    "url": "https://github.com/tyagishi/SwiftUIColorNames"
 	},
 	{
-	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIPHPicker"
+	    "url": "https://github.com/tyagishi/SwiftUIPHPicker"
 	}
     ],
     "author": {
