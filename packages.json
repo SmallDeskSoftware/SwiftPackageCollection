@@ -1,0 +1,12 @@
+{
+    "name": "SmallDeskSoftware Packages",
+    "overview": "convenient packages from SmallDeskSoftware.",
+    "packages": [
+	{
+	    "url": "https://github.com/tyagishi/SwiftUIColorNames"
+	},
+    ],
+    "author": {
+        "name": "SmallDeskSoftware"
+    }
+}
