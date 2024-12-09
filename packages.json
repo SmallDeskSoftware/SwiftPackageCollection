@@ -1,12 +1,13 @@
 {
-    "name": "SmallDeskSoftware Packages",
-    "overview": "convenient packages from SmallDeskSoftware.",
-    "packages": [
-	{
-	    "url": "https://github.com/tyagishi/SwiftUIColorNames"
-	},
-    ],
-    "author": {
-        "name": "SmallDeskSoftware"
-    }
+  "name": "SDS Packages",
+  "overview": "packages from SmallDeskSoftware",
+  "keywords": ["sample package collection"],
+  "packages": [
+    {
+      "url": "https://github.com/tyagishi/SDSMacros"
+    },
+  ],
+  "author": {
+    "name": "SmallDeskSoftware"
+  }
 }

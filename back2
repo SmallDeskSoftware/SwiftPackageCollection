@@ -1,0 +1,48 @@
+{
+    "name": "SmallDeskSoftware Packages",
+    "overview": "convenient packages from SmallDeskSoftware.",
+    "packages": [
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIDebugUtil"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIColorNames"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSViewExtension"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSNSImageExtension"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSCGExtension"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSSupportRequestSheet"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSOrientationAdaptiveStack"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSSharingServicePicker"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSStatefulButton"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSOnboardingView"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIIntroView"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SDSReviewRequest"
+	},
+	{
+	    "url": "https://tyagishi@github.com/tyagishi/SwiftUIPHPicker"
+	}
+    ],
+    "author": {
+        "name": "SmallDeskSoftware"
+    }
+}
