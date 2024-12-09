@@ -3,10 +3,26 @@
   "overview": "packages from SmallDeskSoftware",
   "keywords": ["sample package collection"],
   "packages": [
-    {
-      "url": "https://github.com/tyagishi/SDSMacros"
-    },
-  ],
+    { "url": "https://github.com/tyagishi/SDSMacros" },
+    { "url": "https://github.com/tyagishi/SDSSwiftExtension" },
+    { "url": "https://github.com/tyagishi/SDSFoundationExtension" },
+    { "url": "https://github.com/tyagishi/SwiftUIColorNames" },
+    { "url": "https://github.com/tyagishi/SDSDataStructure" },
+    { "url": "https://github.com/tyagishi/SDSLayout" },
+    { "url": "https://github.com/tyagishi/SDSCustomView" },
+    { "url": "https://github.com/tyagishi/SDSDataProcessor" },
+    { "url": "https://github.com/tyagishi/SDSStringExtension" },
+    { "url": "https://github.com/tyagishi/SDSView" },
+    { "url": "https://github.com/tyagishi/SDSTags" },
+    { "url": "https://github.com/tyagishi/SDSTestUtilityClass" },
+    { "url": "https://github.com/tyagishi/SDSCGExtension" },
+    { "url": "https://github.com/tyagishi/SDSViewExtension" },
+    { "url": "https://github.com/tyagishi/SDSNSUIBridge" },
+    { "url": "https://github.com/tyagishi/FontPicker" },
+    { "url": "https://github.com/tyagishi/SDSSupportRequestSheet" },
+    { "url": "https://github.com/tyagishi/SDSCombineExtension" },
+    { "url": "https://github.com/tyagishi/SDSXCTestExtension" },
+    ],
   "author": {
     "name": "SmallDeskSoftware"
   }
